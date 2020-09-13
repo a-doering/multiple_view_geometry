@@ -20,7 +20,7 @@ rand_filter = fspecial('gaussian'); % Not just a random matrix
 img_double = im2double(img_g); % Needed for convolution
 img_filter = conv2(img_double, rand_filter, 'same');
 imshow(img_filter);
-imwrite(img_filter, 'img_filter.png')
+imwrite(img_filter, 'results/img_filter.png')
 
 % Plot with subplot
 subplot(131), imshow(img),      title('Original Lena')
