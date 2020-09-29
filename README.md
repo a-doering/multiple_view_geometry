@@ -3,5 +3,6 @@ Exercises for the course "Computer Vision II: Multiple View Geometry" (IN2228) o
 
 # Setup
 Matlab R2020a
+
 Toolboxes:
 - Image Processing Toolbox
