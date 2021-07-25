@@ -6,3 +6,7 @@ Matlab R2020a
 
 Toolboxes:
 - Image Processing Toolbox
+
+## Exam resources
+[Overview of matlab commands](matlab_commands.md)
+[Exam helper script](exam_prep.m)
