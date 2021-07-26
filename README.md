@@ -9,4 +9,7 @@ Toolboxes:
 
 ## Exam resources
 [Overview of matlab commands](matlab_commands.md)
+
+[Lukas Kanade text snippets](lukas_kanade.md)
+
 [Exam helper script](exam_prep.m)
