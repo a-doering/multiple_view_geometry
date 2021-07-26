@@ -30,3 +30,7 @@ trace(A*A')
 
 A = [1,2;3,4]
 diag(A)
+
+format rational
+%% testing
+a=[0.65 0.75]
